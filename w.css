@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+p {
+  color : blue;
+  font-family:'Caveat',cursive;
+  font-size:xx-large
+}
+
+body {background-image: url("a.jpg"); }
